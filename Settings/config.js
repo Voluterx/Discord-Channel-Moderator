@@ -23,7 +23,7 @@ Repo link: https://github.com/Refloow/Discord-Channel-Moderator
 ////////////////////////////////////////////////////
 
 
-      Discord_Login: "", // Discord Bot Login code.
+      Discord_Login: "OTgyNjU1OTk1ODk5Njg2OTMy.G0Sxqy.hJDAHvjYilUsa7MA0zs2FwCpGEWmiOP7v9Uo9o", // Discord Bot Login code.
       DisplayMessage: "With spammy users",   // Custom status message.
       Type: "Playing",                       // Type of status message
 
